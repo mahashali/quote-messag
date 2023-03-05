@@ -1,0 +1,37 @@
+
+body{
+	background: #ffd6ff;
+	
+}
+
+.col1{
+	background: #023047;
+	width: 500px;
+	height: 210px;
+	padding: 20px;
+	margin-top: 8%;
+	margin-left: 30%;
+}
+.text-mute{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	color: #f5ebe0;
+}
+
+.btn{
+	font-size: 20px;
+	background: #2a9d8f;
+	color: white;
+	border: none;
+	padding: 10px;
+	margin-top: 20PX;
+	margin-left: 120PX;
+
+}
+.text-right {
+	margin-left: 250px;
+	margin-top: -15PX;
+	font-size: 20px;
+	color: #2a9d8f;
+}
